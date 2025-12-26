@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Disciples Making Movement (DMM)</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; }
+    header { background:#0b3c5d; color:white; padding:40px; text-align:center; }
+    nav { background:#1d2731; padding:10px; text-align:center; }
+    nav a { color:white; margin:10px; text-decoration:none; font-weight:bold; }
+    section { padding:40px; max-width:1000px; margin:auto; }
+    h2 { color:#0b3c5d; }
+    footer { background:#1d2731; color:white; text-align:center; padding:20px; }
+    .card { background:#f4f4f4; padding:20px; border-radius:8px; margin:10px 0; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Disciples Making Movement (DMM)</h1>
+  <p>Follow Jesus. Make Disciples.</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">About</a>
+  <a href="#">Mission</a>
+  <a href="#">Contact</a>
+</nav>
+
+<section>
+  <h2>About DMM</h2>
+  <p>
+    Disciples Making Movement (DMM) is a spiritual movement focused on making
+    disciples of Jesus Christ who make other disciples.
+  </p>
+
+  <div class="card">🙏 Prayer – Every step begins with prayer.</div>
+  <div class="card">📖 Bible Study – Learning God’s Word in groups.</div>
+  <div class="card">❤️ Love & Service – Helping others spiritually.</div>
+  <div class="card">👥 Leadership – Training leaders who train others.</div>
+</section>
+
+<footer>
+  © 2025 Disciples Making Movement (DMM) | Tanzania
+</footer>
+
+</body>
+</html>
